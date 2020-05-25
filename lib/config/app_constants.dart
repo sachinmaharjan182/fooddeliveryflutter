@@ -1,0 +1,3 @@
+final MARGIN_MEDIUM = 16.0;
+final MARGIN_SMALL = 8.0;
+final MARGIN_LARGE = 32.0;
